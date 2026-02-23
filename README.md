@@ -1,2 +1,4 @@
-A computer vision-based virtual mouse that uses hand gestures to control cursor movement and perform click actions.
+The Virtual Mouse is an AI-based system that allows users to control the computer cursor using hand gestures captured through a webcam. It uses computer vision and machine learning techniques to detect and track hand landmarks in real time, enabling touchless interaction. The project is developed using Python as the programming language, with OpenCV for image processing and video capture, and MediaPipe for AI-based hand tracking and gesture recognition. NumPy is used for mathematical calculations, while PyAutoGUI enables cursor control and mouse actions such as clicking and scrolling. 
+
+The system maps hand coordinates to screen coordinates using intelligent algorithms for smooth movement.This project demonstrates how AI and computer vision can replace traditional hardware devices with a smart contactless solution.
 tags[Python, OpenCV, Computer Vision, gesture recognition]
